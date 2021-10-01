@@ -1,0 +1,31 @@
+body{
+	background-color: 1DB9C3;
+	color:geen;
+	font-family:Helvetica;
+	font-size:20px; 
+	}
+h1,h2,h3{
+	font-family:Courier;
+}
+h1{
+	color:#72147e;
+	font-size: 32px;
+}
+h2 {
+	color:#907fa4;
+	font-size: :32px;
+	}
+h3{
+	color:#907fa4;
+	font-size: 32px;
+
+}
+h4{
+	color: #907fa4;
+	font-size:32px;
+}
+div {
+	background:white;
+	border-top:2px dotted black;
+	margin:10px;
+}
